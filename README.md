@@ -8,7 +8,7 @@ Example: `./convert.sh video.avi 1280 medium`
 
 Output file will be saved as `video.mp4`
 
-Default resolution is 1280(x720), default preset is `medium`. See full list` of presets [here](https://trac.ffmpeg.org/wiki/Encode/H.264#a2.Chooseapresetandtune)
+Default resolution is 1280(x720), default preset is `medium`. See full list of presets [here](https://trac.ffmpeg.org/wiki/Encode/H.264#a2.Chooseapresetandtune).
 
 ## thumbnails.sh
 
